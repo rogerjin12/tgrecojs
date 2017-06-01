@@ -14,10 +14,11 @@
   "license": "ISC",
   "dependencies": {
     "buttercms": "^1.0.15",
+    "express": "^4.15.3",
+    "micro": "latest",
     "next": "^2.4.0",
     "react": "^15.5.4",
-    "react-dom": "^15.5.4",
-    "micro": "latest"
+    "react-dom": "^15.5.4"
   },
   "devDependencies": {
     "babel-plugin-inline-react-svg": "^0.4.0"
